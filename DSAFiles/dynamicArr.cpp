@@ -1,7 +1,28 @@
 #include <iostream>
 
+using namespace std;
+
+struct {
+	int myNum[];
+} arrayStatic;
+
+class MakeDynamicArr
+{
+	MakeDynamicArr()
+	{
+		
+	}
+};
+
 int main()
 {
-	std::cout << "Hello world";
+
+	int someArr[3] = { 1,2,3 };
+	int *someArr2[] = &someArr;
+	/*MakeDynamicArr dynamicArr;
+	for (int i : someArr)
+	{
+		cout << i << endl;
+	}*/
 	return 0;
 }

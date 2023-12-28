@@ -1,2 +1,7 @@
-﻿  dynamicArr.cpp
-  DSAFiles.vcxproj -> D:\programming2\cpp\freecodecampDSA\DSAFiles\x64\Debug\DSAFiles.exe
+﻿  ConceptsRecall.cpp
+  dynamicArr.cpp
+D:\programming2\cpp\freecodecampDSA\DSAFiles\dynamicArr.cpp(6,6): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\programming2\cpp\freecodecampDSA\DSAFiles\dynamicArr.cpp(6,6): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+D:\programming2\cpp\freecodecampDSA\DSAFiles\dynamicArr.cpp(21,18): error C2440: 'initializing': cannot convert from 'int (*)[3]' to 'int *[]'
+D:\programming2\cpp\freecodecampDSA\DSAFiles\dynamicArr.cpp(21,18): message : There are no conversions to array types, although there are conversions to references or pointers to arrays
+  Generating Code...
