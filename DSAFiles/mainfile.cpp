@@ -25,6 +25,6 @@
 int main()
 {
 	wordGame haha;
-	haha;
+	haha.display();
 	return 0;
 }
