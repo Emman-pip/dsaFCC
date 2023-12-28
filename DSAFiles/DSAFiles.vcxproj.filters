@@ -18,18 +18,15 @@
     <ClCompile Include="mainfile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Circle.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Utillity.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Circle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Utillity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wordGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
