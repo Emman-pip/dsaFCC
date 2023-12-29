@@ -1,3 +1,5 @@
 ﻿  mainfile.cpp
 D:\programming2\cpp\freecodecampDSA\DSAFiles\wordGame.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\programming2\cpp\freecodecampDSA\DSAFiles\wordGame.h(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\programming2\cpp\freecodecampDSA\DSAFiles\wordGame.h(26,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   DSAFiles.vcxproj -> D:\programming2\cpp\freecodecampDSA\DSAFiles\x64\Debug\DSAFiles.exe
