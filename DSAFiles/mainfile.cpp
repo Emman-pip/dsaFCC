@@ -31,10 +31,33 @@
 
 
 // for ArrayPractice
-#include "ArrayPractice.h"
+//#include "ArrayPractice.h"
+//
+//int main()
+//{
+//	ArrayPractice;
+//	return 0;
+//}
+
+// for linkedListTry
+#include "linkedListTry.h"
+#include <iostream>
+
+using namespace std;
 
 int main()
 {
-	ArrayPractice;
+	node one;
+	one.data = "hahaha";
+	linkedListTry linkedlist;
+	linkedlist.insertAtStart("hahha");
+	linkedlist.insertAtStart("hohoho");
+	linkedlist.insertAtEnd("hihihi");
+	linkedlist.insertAtMiddle(1, "huhu");
+	linkedlist.insertAtMiddle(0, "huho");
+	node lal = linkedlist.getHead();
+	string item3 = lal.link->link->data;
+
+	cout << linkedlist.getLength() << endl << item3;
 	return 0;
 }

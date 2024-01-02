@@ -24,6 +24,7 @@
   <ItemGroup>
     <ClInclude Include="ArrayPractice.h" />
     <ClInclude Include="Circle.h" />
+    <ClInclude Include="linkedListTry.h" />
     <ClInclude Include="Utillity.h" />
     <ClInclude Include="wordGame.h" />
   </ItemGroup>
