@@ -22,6 +22,7 @@
     <ClCompile Include="mainfile.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArrayPractice.h" />
     <ClInclude Include="Circle.h" />
     <ClInclude Include="Utillity.h" />
     <ClInclude Include="wordGame.h" />

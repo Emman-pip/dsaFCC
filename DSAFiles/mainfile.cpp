@@ -20,11 +20,21 @@
 //}
 
 // for word game
-#include "wordGame.h"
+//#include "wordGame.h"
+//
+//int main()
+//{
+//	wordGame haha;
+//	haha.display();
+//	return 0;
+//}
+
+
+// for ArrayPractice
+#include "ArrayPractice.h"
 
 int main()
 {
-	wordGame haha;
-	haha.display();
+	ArrayPractice;
 	return 0;
 }

@@ -29,5 +29,8 @@
     <ClInclude Include="wordGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ArrayPractice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
